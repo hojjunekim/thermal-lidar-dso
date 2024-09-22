@@ -1,2 +1,2 @@
-# thermal-lidar-dso
-Direct SLAM with Thermal camera and LiDAR
+# Thermal-LiDAR-DSO
+This is a modified version of Direct SLAM(DSO) utilizing Thermal camera and LiDAR. It is tested by ROS wrapper in real-time. Please follow the instruction in [dso](https://github.com/JakobEngel/dso) and [dso_ros](https://github.com/JakobEngel/dso_ros) to build the package.
